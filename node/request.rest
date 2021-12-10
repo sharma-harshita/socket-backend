@@ -1,0 +1,5 @@
+GET http://localhost:3001/posts
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiSm9obiIsInBzd2QiOiJTdHVkZW50MTIzQCIsImlhdCI6MTYzOTA2NDM4NH0.pqLZaoRf-AFdSwU4FpuFcfzrfhb7ZJ-ASF6WxlOzvc4
+###
+
+POST http://localhost:3001/login

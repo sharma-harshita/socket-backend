@@ -1,0 +1,1 @@
+exports.technology = ["React", "Node", "JS"]
